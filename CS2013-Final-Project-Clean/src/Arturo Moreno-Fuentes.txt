@@ -1,0 +1,9 @@
+Arturo Moreno-Fuentes
+
+This is my project.
+
+There are some things I could not implement since I did not have time due to my finals. 
+
+For example, I was not able to implement being able to implement the logic to use the potions or shield potions. I also needed to implement the ability to see the inventory items. Another thing was that the cost of moving between rooms still does not affect the player.
+
+However, I implemented many new things, such as randomly assigning monsters and items to the Rooms. There are also other things I implemented that do not need talking since they deal with logic.
